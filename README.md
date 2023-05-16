@@ -25,6 +25,6 @@ Please cite our papers if you use these data sets. Thanks!
 }
 ```
 
-You can contact the author via email with the address "pfsun@hanyang.ac.kr".
+You can contact the author via email at the address "pfsun@hanyang.ac.kr", if any questions.
 
 Thanks again!
